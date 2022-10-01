@@ -1,0 +1,15 @@
+
+`	java:S112K"FDefine and throw a dedicated exception instead of using a generic one.(š½ÿÂÿÿÿÿÿ
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(€¯—ÿÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¸µ¢À
+Z
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ØÑ†
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÄÃÅşÿÿÿÿ
+{
+java:S1217-"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(Êì¦§úÿÿÿÿ
+K
+java:S24468"0"notify" may not wake up the appropriate thread.(ø‘Ù×üÿÿÿÿ
+I
+java:S1068".Remove this unused "atomicLong" private field.(¼Ö­¯úÿÿÿÿ
